@@ -2,3 +2,6 @@
 # Data folders
 /data/
 /data_processed/
+
+# Large binary files
+*.mat
